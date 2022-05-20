@@ -1,0 +1,67 @@
+@font-face {
+    font-family: "ProtoGroteskWeb";
+    src: url("../fonts/ProtoGroteskWeb-Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+  }
+  html {
+    font-size: 1VW;
+  }
+  p{
+    font-family:ProtoGroteskWeb;
+    font-size:1EM;
+    position: absolute;
+    color: white;
+    width: 30rem;
+    margin: 0.5em 0.5rem;
+  }
+  .t1{
+      margin: 2em 2rem;
+      bottom: 1em;
+  }
+  .t2{
+      margin: 3em;
+  }
+  .t3{
+      margin: 0.5em 0.5rem;
+      right: 2em ;
+      width: 20em;
+  }
+  h1{
+    font-family:ProtoGroteskWeb;
+    font-size: 10em;
+    position: absolute;
+    color: white;
+    width: 30rem;
+    margin: 2em 2rem;
+  }
+  .blank {
+      display: inline-block;
+      position: relative;
+      font-size: 1em;
+      width: 30em;
+      height: 42.3em;
+      background:black;
+      vertical-align: top;
+    }
+  .a4 {
+    font-size: 1em;
+  }
+  .a5 {
+    font-size: .5em;
+  }
+  .a6 {
+    font-size: .25em;
+  }
+  .main {
+    width: 3em;
+    height: 3em;
+    border-radius: 50%;
+    display: block;
+  }
+.ap{
+  position: absolute;
+  margin: 10em 1rem;
+  width: 25em;
+
+}
